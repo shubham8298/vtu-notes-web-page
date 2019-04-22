@@ -1,1 +1,1 @@
-# vtu-notes-web-page
+# vtunoteshub
